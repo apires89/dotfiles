@@ -5,16 +5,29 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
+		"Babel",
+		"BeautifyRuby",
 		"BracketHighlighter",
+		"Color Highlight",
 		"Emmet",
+		"Emoji",
+		"Emoji Code",
+		"ERB Autocomplete",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"JSX",
+		"Material Theme",
+		"Materialize",
 		"Package Control",
-		"SCSS"
+		"SCSS",
+		"SublimeERB",
+		"SublimeLinter-eslint",
+		"View In Browser"
 	]
 }

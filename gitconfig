@@ -48,4 +48,9 @@
   mergeoptions = --no-edit
 [user]
 	email = andrecabralpires@gmail.com
-	name = Andre Pires
+	name = andre pires
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
