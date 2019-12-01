@@ -47,7 +47,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = andrecabralpires@gmail.com
+	email = pires
 	name = andre
 [filter "lfs"]
 	smudge = git-lfs smudge -- %f
